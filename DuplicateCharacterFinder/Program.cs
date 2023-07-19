@@ -1,8 +1,6 @@
 ﻿#nullable disable
 
-bool success = false;
-
-while (!success)
+while (true)
 {
     Console.WriteLine();
     Console.WriteLine("Lütfen bir kelime giriniz (Örnek: leblebi)");

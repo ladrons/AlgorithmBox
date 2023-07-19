@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuplicateCharacterFinder", "DuplicateCharacterFinder\DuplicateCharacterFinder.csproj", "{F9867584-29AA-4B52-9650-07D8791A6764}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSpecialMultiples", "FindSpecialMultiples\FindSpecialMultiples.csproj", "{815F64C1-C43D-4F58-9095-396FE6CB982F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindSpecialMultiples", "FindSpecialMultiples\FindSpecialMultiples.csproj", "{815F64C1-C43D-4F58-9095-396FE6CB982F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumChainFinder", "SumChainFinder\SumChainFinder.csproj", "{F3D1D668-937F-47D5-B664-2BDE59B49420}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{815F64C1-C43D-4F58-9095-396FE6CB982F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{815F64C1-C43D-4F58-9095-396FE6CB982F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{815F64C1-C43D-4F58-9095-396FE6CB982F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D1D668-937F-47D5-B664-2BDE59B49420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D1D668-937F-47D5-B664-2BDE59B49420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D1D668-937F-47D5-B664-2BDE59B49420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D1D668-937F-47D5-B664-2BDE59B49420}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

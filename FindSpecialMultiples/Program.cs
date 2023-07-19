@@ -1,8 +1,6 @@
 ﻿#nullable disable
 
-bool success = false;
-
-while (!success)
+while (true)
 {
     Console.WriteLine("Bu algoritmada girilen sayının, 3 ve 5 katları tespit ediliyor ve ilgili sayıların yerlerine 'Fizz', 'Buzz' ve 'FizzBuzz' ifadesi yazılıyor.");
     Console.WriteLine();
