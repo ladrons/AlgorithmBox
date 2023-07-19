@@ -6,7 +6,8 @@ Bu projede, çeşitli algoritmaları ve bu algoritmaların C# dilindeki implemen
 
 Şu anda projede aşağıdaki algoritmalar bulunmaktadır:
 
-1. **Find Duplicate Characters**: Girilen bir string değerdeki tekrar eden harfleri bulup, kullanıcıya gösterir ve tekrar sayılarını gösterir. 
+1. **Find Duplicate Characters**: Girilen bir kelimede tekrar eden harfleri bulup, kullanıcıya tekrar sayıları ile birlikte gösterir.
+2. **Find Special Multiples**: Girilen tam sayıda 3 ve 5'in katlarını tespit eder ve bu katlar için özel metinler yazdırır.
 
 ## İletişim
 
