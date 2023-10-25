@@ -11,6 +11,7 @@ Bu projede, çeşitli algoritmaları ve bu algoritmaların C# dilindeki implemen
 3. **Sum Chain Finder**: Girilen sayı dizisinin zincir toplamını ekrana yazdırır. (1+3+7+9 gibi)
 4. **Calculate Factorial**: Girilen sayının faktöriyelini hesaplar.
 5. **Reverse String**: Girilen metni tersten ekrana yazdırır.
+6. **String Intersection**: Bir array dizisinde bulunan 2 değeri birbiri ile karşılaştırır ve aynı olan değerleri içeren bir string metin döndürür.
 
 ## İletişim
 
